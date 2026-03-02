@@ -40,6 +40,10 @@ Tableau
 	◦	Reallocation sensitivity curve
 	◦	CAC optimization impact
 
+## Executive Dashboard
+
+![Dashboard Overview](dashboard/dashboard_overview.png)
+
 5. Key Findings
 	1	Paid acquisition channels were slightly negative on first-order profitability.
 	2	TikTok CAC significantly exceeded the $54 break-even threshold.
