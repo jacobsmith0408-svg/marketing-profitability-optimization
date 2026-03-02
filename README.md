@@ -1,6 +1,8 @@
 Multi-Channel Marketing Profitability & Optimization
 1. Business Problem
+
 A direct-to-consumer fitness apparel brand wants to evaluate the profitability of its marketing channels and determine whether reallocating budget or improving channel efficiency would have a greater impact on net profit.
+
 Specifically:
 	•	Are paid acquisition channels profitable on first purchase?
 	•	Which channels exceed break-even CAC thresholds?
@@ -12,6 +14,7 @@ Specifically:
 	•	Channels: Paid Search, Paid Social, TikTok, Affiliate, Email
 	•	Metrics: Impressions, Clicks, Sessions, Purchases, Revenue, Ad Spend
 	•	Customer segments: New vs Returning
+
 The dataset was intentionally generated to simulate realistic DTC marketing dynamics while allowing controlled margin and efficiency assumptions.
 
 3. Assumptions
@@ -20,9 +23,11 @@ The dataset was intentionally generated to simulate realistic DTC marketing dyna
 	•	Break-even CAC = AOV × Margin = $54
 	•	Affiliate modeled at 12% revenue commission
 	•	Paid Search subject to diminishing returns when scaled
+
 These assumptions were made explicit to isolate economic decision-making logic.
 
 4. Methodology
+
 SQL
 	•	Aggregated channel-level performance
 	•	Calculated new CAC by channel
@@ -52,7 +57,9 @@ Tableau
 	5	Performance optimization offered materially greater upside than capital reallocation.
 
 6. Strategic Recommendation
+
 Moderate budget reallocation can reduce marginal losses, but the highest-leverage strategy is improving underperforming channel efficiency.
+
 Prioritizing creative and targeting optimization within TikTok offers substantially greater profit impact than shifting spend across channels.
 
 7. Future Improvements
